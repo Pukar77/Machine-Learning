@@ -1,4 +1,3 @@
 ﻿# Machine-Learning
-RoadMap
+This repo contains the concepts that i am currently learning
 
-Houseprice.ipynb => multivarient.ipynb => test-train.ipynb =>logistic-regression.ipynb ==>multiclass-logisticregression.ipynb  ==>Decision-tree.ipynb
